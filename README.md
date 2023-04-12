@@ -1,0 +1,1 @@
+# YOLOv8-Deteccao-de-objetos-Pytorch
